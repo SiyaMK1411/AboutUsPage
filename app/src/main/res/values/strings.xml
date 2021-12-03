@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aboutuspg</string>
+    <string name="paragraph" >C2S : Click2Safe is an reliant application which will make women feel safe and empowered.
+   \nThis application allows you to call and message your predetermined emergency contacts and nearby police stations at the time of need.
+    \nIt has also laws and self defence videos which one can refer which might help in emergency. It contains various helpline numbers which can help anytime and anywhere.
+    \nC2S uses Maps for identifying the current location of the user in trouble and sends the current location to the selected contact via SMS.
+     \nC2S : Click2Safe Application will be helpful to all the women around the globe which will not require any extra efforts and <b>JUST A CLICK</b>.
+    </string>
+</resources>
